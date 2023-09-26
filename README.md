@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Currently working on creating recomendation engines 👨‍💻
-An experiance Marketer in FinTech and Transport Tech 📢
-I am looking to collaborate on Deep Learning projects 🧠
+- Currently working on creating recomendation engines 👨‍💻
+- An experiance Marketer in FinTech and Transport Tech 📢
+- I am looking to collaborate on Deep Learning projects 🧠
 
 Fun facts:
-I've lived in 4 countires - 🇿🇦🇰🇷🇻🇳🇬🇧
-I love sharing meals with friends, family and strangers 🥘
-I don't believe in the impossible 💪
+- I've lived in 4 countires - 🇿🇦🇰🇷🇻🇳🇬🇧
+- I love sharing meals with friends, family and strangers 🥘
+- I don't believe in the impossible 💪
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
