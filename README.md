@@ -2,7 +2,8 @@
 
 - 👨‍💻 Currently working on creating recomendation engines
 - 📢 An experianced Marketer in FinTech and Transport Tech
-- 🧠 I am looking to collaborate on Deep Learning projects
+- 🧑‍🎓 Recently finished a Data Science bootcamp at LeWagon
+- 🧠 Looking to collaborate on Deep Learning projects
 
 
 #### Fun facts:
