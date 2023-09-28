@@ -1,4 +1,4 @@
-### Hey! I'm Antonis Melis 🐝
+### Hey! I'm Antonis ✌️
 
 - 👨‍💻 Currently working on creating recomendation engines
 - 📢 An experianced Marketer in FinTech and Transport Tech
