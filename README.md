@@ -1,6 +1,6 @@
 ### Hey! I'm Antonis ✌️
 
-- 👨‍💻 Currently working on creating recommendation engines
+- 👨‍💻 Currently working on creating recommendation engines for the transport industry
 - 📢 An experienced Marketer in FinTech and Transport Tech
 - 🧑‍🎓 Recently finished a Data Science bootcamp at LeWagon
 - 🧠 Looking to collaborate on Deep Learning projects
@@ -8,7 +8,7 @@
 ### Fun facts:
 
 - 🌍 Lived in 4 countries - 🇿🇦🇰🇷🇻🇳🇬🇧
-- 🥘 Love sharing meals with friends, family and strangers
+- 🥘 Love sharing meals with friends, family and sometimes strangers
 
 
 ### 👋 Reach out 
