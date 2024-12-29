@@ -1,15 +1,15 @@
 ### Hey! I'm Antonis ✌️
 
-- 👨‍💻 Currently working on creating recommendation engines for the transport industry
-- 📢 An experienced Marketer in FinTech and Transport Tech
-- 🧑‍🎓 Recently finished a Data Science bootcamp at LeWagon
-- 🧠 Looking to collaborate on Deep Learning projects
-
+- 👨‍💻 Currently working as a Analyst/Analytics Engineer for a B2C Travel Company
+- 📢 An experienced B2B Marketer in FinTech and Transport Tech
+- 
 ### Fun facts:
 
 - 🌍 Lived in 4 countries - 🇿🇦🇰🇷🇻🇳🇬🇧
 - 🥘 Love sharing meals with friends, family and sometimes strangers
 
+### Why am I even here?
+- 🌽 Building a meal recommendations app
 
 ### 👋 Reach out 
 <a href="https://linkedin.com/in//antonis-melis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonis-melis" height="30" width="40" /></a>
